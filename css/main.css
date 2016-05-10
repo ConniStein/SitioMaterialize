@@ -1,9 +1,21 @@
-.big-text{
-	font-size: 6em;
-	font-weight: bold;
-	margin:0px;
+
+.logo-text{
+	font-weight: bolder;
 }
 
-.small-text{
-	padding-bottom: 50px;
+.slider .indicators .indicator-item.active {
+  background-color: #c62828;
+}
+
+.btn, .btn-large{
+  background-color: #c62828;
+}
+
+.btn:hover, .btn-large:hover {
+  background-color: #d50000;
+}
+
+.card-title{
+	font-weight: bolder;
+	font-size: 2em;
 }
