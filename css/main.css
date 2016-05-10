@@ -15,7 +15,7 @@
   background-color: #d50000;
 }
 
-.card-title{
-	font-weight: bolder;
-	font-size: 2em;
+.card .card-title {
+  font-size: 26px;
+  font-weight: 600;
 }
